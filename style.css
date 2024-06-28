@@ -692,6 +692,13 @@ main .recent-order #map{
     margin: 0;
 }
 
+#map{
+    height: 70vh;
+    border-radius: var(--card-border-radius);
+    box-shadow: var(--box-shadow);
+    margin-top: 2%;
+}
+
 
 
 .right{
