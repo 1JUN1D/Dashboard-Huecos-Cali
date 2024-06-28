@@ -1,0 +1,907 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 1",
+        "DIRECCION": "Cra. 66 #14-2 a 14-72",
+        "UBICACION": "Cañaverales, Cali, Valle del Cauca",
+        "Mes": "Enero",
+        "FOTO": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.531863,
+          3.397938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 2",
+        "DIRECCION": "Cl. 70 #23-119 a 23-13",
+        "UBICACION": "Lleras Restrepo, Cali, Valle del Cauca",
+        "Mes": "Febrero",
+        "FOTO": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.490575,
+          3.443526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 3",
+        "DIRECCION": "Cl. 59d #2-2 a 2-66",
+        "UBICACION": "Comuna 5, Cali, Valle del Cauca, Frente a la unidad San lorenzo",
+        "Mes": "Febrero",
+        "FOTO": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.494269,
+          3.47033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 4",
+        "DIRECCION": "Cra. 2 #24-60",
+        "UBICACION": "COMUNA 3, Cali, Valle del Cauca, frente a pampa malbec",
+        "Mes": "Febrero",
+        "FOTO": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.540418,
+          3.450158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 5",
+        "DIRECCION": "Cra. 5 #31a-81 a 31a-1",
+        "UBICACION": "COMUNA 4, Cali, Valle del Cauca, frente a Solofruver Sede Porvenir",
+        "Mes": "Febrero",
+        "FOTO": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51478,
+          3.458361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 6",
+        "DIRECCION": "Cl. 48 #90-115 a 90-1",
+        "UBICACION": "Valle de lili",
+        "Mes": "Marzo",
+        "FOTO": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5166,
+          3.376675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 7",
+        "DIRECCION": "Auto. Simón Bolívar",
+        "UBICACION": "Union de Vivienda Popular, Cali, Valle del Cauca, frente a la sijin",
+        "Mes": "Marzo",
+        "FOTO": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51331,
+          3.414219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 8",
+        "DIRECCION": "Cl. 44 #29-41 a 29-1",
+        "UBICACION": "Cali, Valle del Cauca, Poblado 1",
+        "Mes": "Marzo",
+        "FOTO": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.497673,
+          3.41941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 9",
+        "DIRECCION": "Cra. 32 #17-117 a 17-1",
+        "UBICACION": "Comuna 10, Cali, Valle del Cauca, Barrio Colón",
+        "Mes": "Marzo",
+        "FOTO": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.524205,
+          3.425663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 10",
+        "DIRECCION": "Cl 54 #46-479 a 46-237",
+        "UBICACION": "Navarro, Cali, Valle del Cauca",
+        "Mes": "Marzo",
+        "FOTO": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.509454,
+          3.397093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 11",
+        "DIRECCION": "Cl 54 #46-480 a 46-692",
+        "UBICACION": "Navarro, Cali, Valle del Cauca",
+        "Mes": "Marzo",
+        "FOTO": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.508686,
+          3.397759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 12",
+        "DIRECCION": "Cl. 72o #28f-43 a 28f-1",
+        "UBICACION": "Cali, Valle del Cauca, Frente al colegio academico el poblado",
+        "Mes": "Marzo",
+        "FOTO": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.496498,
+          3.420536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 13",
+        "DIRECCION": "Auto. Simón Bolívar",
+        "UBICACION": "Republica De Israel, Cali, Valle del Cauca, frente a venecia apartahotel",
+        "Mes": "Marzo",
+        "FOTO": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.515597,
+          3.412033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 14",
+        "DIRECCION": "Cl. 5b 5 #38a-64 a 38a-82",
+        "UBICACION": "San Fernando, Cali, Valle del Cauca, Imbanaco",
+        "Mes": "Marzo",
+        "FOTO": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.543725,
+          3.424131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 15",
+        "DIRECCION": "Cl 54 #47-2 a 47-42",
+        "UBICACION": "Cali, Valle del Cauca, frente a la compraventa los primos",
+        "Mes": "Marzo",
+        "FOTO": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.509336,
+          3.397332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 16",
+        "DIRECCION": "Carrera 32a #54-37 a 54-1",
+        "UBICACION": "El Retiro, Cali, Valle del Cauca, frente a la parroquia maria madre del redentor",
+        "Mes": "Marzo",
+        "FOTO": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.493944,
+          3.41143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 17",
+        "DIRECCION": "Cra. 29 #41-56 a 41-172",
+        "UBICACION": "El Diamente, Cali, Valle del Cauca, frente a la panadería arrayanes",
+        "Mes": "Marzo",
+        "FOTO": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.499297,
+          3.421145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 18",
+        "DIRECCION": "Av. 3 Nte. #52 Norte-51 a 52 Norte-1",
+        "UBICACION": "El Rincon, Cali, Valle del Cauca, En la esquina de la estación de mio los Alamos",
+        "Mes": "Abril",
+        "FOTO": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.513751,
+          3.484105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 19",
+        "DIRECCION": "Cra. 66 con calle 14",
+        "UBICACION": "Cañaverales, Cali, Valle del Cauca",
+        "Mes": "Abril",
+        "FOTO": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53215,
+          3.397961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 20",
+        "DIRECCION": "Cl. 70 #1-55 a 1-1",
+        "UBICACION": "COMUNA 6, Cali, Palmira, Valle del Cauca, Por el terminalito",
+        "Mes": "Abril",
+        "FOTO": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.494279,
+          3.485876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 21",
+        "DIRECCION": "Cl 73 #9-2 a 9-50",
+        "UBICACION": "Andres Sanin, Cali, Palmira, Valle del Cauca, Frente al aparta hotel intimo",
+        "Mes": "Abril",
+        "FOTO": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483215,
+          3.448664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 22",
+        "DIRECCION": "Cra. 65 #5-110 a 5-212",
+        "UBICACION": "Gran Limonar, Cali, Valle del Cauca",
+        "Mes": "Abril",
+        "FOTO": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.544615,
+          3.399505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 23",
+        "DIRECCION": "Cl. 10 #13-107 a 13-1",
+        "UBICACION": "COMUNA 3, Cali, Valle del Cauca, San bosco",
+        "Mes": "Abril",
+        "FOTO": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.532237,
+          3.444365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 24",
+        "DIRECCION": "Cra. 86 &, Cl. 48, Cali, Valle del Cauca",
+        "UBICACION": "Carrera 48 con carrera 86, esquina",
+        "Mes": "Abril",
+        "FOTO": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.516172,
+          3.379059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 25",
+        "DIRECCION": "Cl 48 entre Kr 85E y 86",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Abril",
+        "FOTO": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.516628,
+          3.379718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 26",
+        "DIRECCION": "Cl 73 #26f-2 a 26f-248",
+        "UBICACION": "Cali, Valle del Cauca, Ciudad de Cali",
+        "Mes": "Abril",
+        "FOTO": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.484171,
+          3.435928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 27",
+        "DIRECCION": "Santander de Quilichao - Cali",
+        "UBICACION": "Cali, Valle del Cauca, Simon bolivar",
+        "Mes": "Mayo",
+        "FOTO": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.525055,
+          3.382911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 28",
+        "DIRECCION": "Cl. 55 #33-2 a 33-168",
+        "UBICACION": "El Retiro, Cali, Valle del Cauca, Ciudad de Cali",
+        "Mes": "Mayo",
+        "FOTO": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49479,
+          3.409099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 29",
+        "DIRECCION": "Cl. 42 #109",
+        "UBICACION": "Cali, Valle del Cauca, Bochalema",
+        "Mes": "Mayo",
+        "FOTO": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.520308,
+          3.358866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 30",
+        "DIRECCION": "Cl 73 #1a 10-33 a 1a 10-1",
+        "UBICACION": "COMUNA 6, Cali, Palmira, Valle del Cauca, barrio san luis",
+        "Mes": "Mayo",
+        "FOTO": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.485423,
+          3.482563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 31",
+        "DIRECCION": "Cl 73 #26c-45 a 26c-1",
+        "UBICACION": "Los Naranjos, Cali, Valle del Cauca",
+        "Mes": "Mayo",
+        "FOTO": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483805,
+          3.43788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 32",
+        "DIRECCION": "Cl 54 #41e 1-2 a 41e 1-38",
+        "UBICACION": "Cali, Valle del Cauca, Ciudad de Cali",
+        "Mes": "Mayo",
+        "FOTO": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.502566,
+          3.403573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 33",
+        "DIRECCION": "Cl 73 #1c 2-20 a 1c 2-54",
+        "UBICACION": "COMUNA 6, Cali, Palmira, Valle del Cauca, San luis",
+        "Mes": "Mayo",
+        "FOTO": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.484278,
+          3.477813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 34",
+        "DIRECCION": "Cra. 82d 4",
+        "UBICACION": "El Poblado II, Cali, Valle del Cauca, Pasando el Nuevo Latir",
+        "Mes": "Mayo",
+        "FOTO": "34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.487071,
+          3.416756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 35",
+        "DIRECCION": "Cl 83 #28d 2-27 a 28d 2-3",
+        "UBICACION": "El Poblado II, Cali, Valle del Cauca",
+        "Mes": "Mayo",
+        "FOTO": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486921,
+          3.416919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 36",
+        "DIRECCION": "Cra. 86 #42-2 a 42-20",
+        "UBICACION": "Cali, Valle del Cauca, la cuadra de la policlinica, barrio el caney",
+        "Mes": "Mayo",
+        "FOTO": "36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.520118,
+          3.379104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 37",
+        "DIRECCION": "Cl. 48 #97-36",
+        "UBICACION": "Cali, Valle del Cauca, valle de lili",
+        "Mes": "Mayo",
+        "FOTO": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.516637,
+          3.371021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 38",
+        "DIRECCION": "Cl. 42 #85-49 a 85-3",
+        "UBICACION": "Cali, Valle del Cauca, Caney",
+        "Mes": "Mayo",
+        "FOTO": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.520397,
+          3.381923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 39",
+        "DIRECCION": "Cra. 83c #25-91 a 25-49",
+        "UBICACION": "Cali, Valle del Cauca, frente al terpel de caney plaza",
+        "Mes": "Mayo",
+        "FOTO": "39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.523916,
+          3.383914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 40",
+        "DIRECCION": "Cl. 42 #83b-2 a 83b-124",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Mayo",
+        "FOTO": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.520214,
+          3.383943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 41",
+        "DIRECCION": "Cl. 42 #80-27 a 80-1",
+        "UBICACION": "Cali, Valle del Cauca, Caney",
+        "Mes": "Mayo",
+        "FOTO": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.519927,
+          3.388223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 42",
+        "DIRECCION": "Cl. 42 #82-45 a 82-9",
+        "UBICACION": "Cali, Valle del Cauca, Caney",
+        "Mes": "Mayo",
+        "FOTO": "42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.520143,
+          3.385985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 43",
+        "DIRECCION": "Cra. 80 con 42",
+        "UBICACION": "Cali, Valle del Cauca, Caney",
+        "Mes": "Junio",
+        "FOTO": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.519735,
+          3.388331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 44",
+        "DIRECCION": "Kr 83C entre Cl 36 y 34",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.521881,
+          3.383858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 45",
+        "DIRECCION": "Cra. 94 #25-61 a 25-1",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.524399,
+          3.375377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 46",
+        "DIRECCION": "Cl. 34 #93-89 a 93-1",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.522098,
+          3.375443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 47",
+        "DIRECCION": "Cl. 3 con carrera 66",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.549836,
+          3.398133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 48",
+        "DIRECCION": "Kr 73 entre Cl 3 y 2C",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.549437,
+          3.391525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 49",
+        "DIRECCION": "Cl. 62 #1a 5-41 a 1a 5-23",
+        "UBICACION": "Comuna 5, Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.496674,
+          3.479389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 50",
+        "DIRECCION": "Cra. 65 #5-110 a 5-212",
+        "UBICACION": "Gran Limonar, Cali, Valle del Cauca, frente al chuzo de nando",
+        "Mes": "Junio",
+        "FOTO": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.544656,
+          3.399499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 51",
+        "DIRECCION": "Cra. 23a #1",
+        "UBICACION": "La Alameda, Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.533575,
+          3.435958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 52",
+        "DIRECCION": "Autopista Sur",
+        "UBICACION": "Cali, Valle del Cauca",
+        "Mes": "Junio",
+        "FOTO": "52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.531702,
+          3.429129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 53",
+        "DIRECCION": "Cl. 13 #103-127 a 103-1",
+        "UBICACION": "Ciudad Jardín, Cali, Valle del Cauca, Por el carulla",
+        "Mes": "Junio",
+        "FOTO": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.537199,
+          3.366885
+        ]
+      }
+    }
+  ]
+}
+
