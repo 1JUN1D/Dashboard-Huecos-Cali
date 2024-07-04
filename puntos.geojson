@@ -5,16 +5,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 1",
-        "DIRECCION": "Cra. 66 #14-2 a 14-72",
-        "UBICACION": "Cañaverales, Cali, Valle del Cauca",
+        "DIRECCION": "Cra. 5 Nte. #51",
         "Mes": "Enero",
-        "FOTO": "1"
+        "FOTO": "1",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7319175109284007174?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.531863,
-          3.397938
+          -76.506675,
+          3.477642
         ]
       }
     },
@@ -22,16 +22,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 2",
-        "DIRECCION": "Cl. 70 #23-119 a 23-13",
-        "UBICACION": "Lleras Restrepo, Cali, Valle del Cauca",
-        "Mes": "Febrero",
-        "FOTO": "2"
+        "DIRECCION": "Cra. 70 #13a 1-113 a 13a 1-1",
+        "Mes": "Enero",
+        "FOTO": "2",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7319646577033874693?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.490575,
-          3.443526
+          -76.535289,
+          3.393356
         ]
       }
     },
@@ -39,33 +39,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 3",
-        "DIRECCION": "Cl. 59d #2-2 a 2-66",
-        "UBICACION": "Comuna 5, Cali, Valle del Cauca, Frente a la unidad San lorenzo",
-        "Mes": "Febrero",
-        "FOTO": "3"
+        "DIRECCION": "Cra. 73 #11-05",
+        "Mes": "Enero",
+        "FOTO": "3",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7320453499714538758?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.494269,
-          3.47033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PUNTO": "Punto 4",
-        "DIRECCION": "Cra. 2 #24-60",
-        "UBICACION": "COMUNA 3, Cali, Valle del Cauca, frente a pampa malbec",
-        "Mes": "Febrero",
-        "FOTO": "4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.540418,
-          3.450158
+          -76.540858,
+          3.391486
         ]
       }
     },
@@ -73,16 +56,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 5",
-        "DIRECCION": "Cra. 5 #31a-81 a 31a-1",
-        "UBICACION": "COMUNA 4, Cali, Valle del Cauca, frente a Solofruver Sede Porvenir",
-        "Mes": "Febrero",
-        "FOTO": "5"
+        "DIRECCION": "Cra. 66 & Cl. 14",
+        "Mes": "Enero",
+        "FOTO": "5",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7320467881874033926?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.51478,
-          3.458361
+          -76.531707,
+          3.397888
         ]
       }
     },
@@ -90,16 +73,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 6",
-        "DIRECCION": "Cl. 48 #90-115 a 90-1",
-        "UBICACION": "Valle de lili",
-        "Mes": "Marzo",
-        "FOTO": "6"
+        "DIRECCION": "Cl. 14 & Cra. 66",
+        "Mes": "Enero",
+        "FOTO": "6",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7320649513033829637?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.5166,
-          3.376675
+          -76.532209,
+          3.397757
         ]
       }
     },
@@ -107,16 +90,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 7",
-        "DIRECCION": "Auto. Simón Bolívar",
-        "UBICACION": "Union de Vivienda Popular, Cali, Valle del Cauca, frente a la sijin",
-        "Mes": "Marzo",
-        "FOTO": "7"
+        "DIRECCION": "Av. Ciudad de Cali & Cra. 2",
+        "Mes": "Enero",
+        "FOTO": "7",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7321082970574507269?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.51331,
-          3.414219
+          -76.48185,
+          3.4745
         ]
       }
     },
@@ -124,16 +107,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 8",
-        "DIRECCION": "Cl. 44 #29-41 a 29-1",
-        "UBICACION": "Cali, Valle del Cauca, Poblado 1",
-        "Mes": "Marzo",
-        "FOTO": "8"
+        "DIRECCION": "Cl. 70 & Cra. 7J ",
+        "Mes": "Enero",
+        "FOTO": "8",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7321158362089983237?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.497673,
-          3.41941
+          -76.483616,
+          3.458737
         ]
       }
     },
@@ -141,33 +124,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 9",
-        "DIRECCION": "Cra. 32 #17-117 a 17-1",
-        "UBICACION": "Comuna 10, Cali, Valle del Cauca, Barrio Colón",
-        "Mes": "Marzo",
-        "FOTO": "9"
+        "DIRECCION": "Puente Cali-Jamundi, Bochalema",
+        "Mes": "Enero",
+        "FOTO": "9",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7322618399308205317?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.524205,
-          3.425663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PUNTO": "Punto 10",
-        "DIRECCION": "Cl 54 #46-479 a 46-237",
-        "UBICACION": "Navarro, Cali, Valle del Cauca",
-        "Mes": "Marzo",
-        "FOTO": "10"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.509454,
-          3.397093
+          -76.516418,
+          3.364204
         ]
       }
     },
@@ -175,16 +141,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 11",
-        "DIRECCION": "Cl 54 #46-480 a 46-692",
-        "UBICACION": "Navarro, Cali, Valle del Cauca",
-        "Mes": "Marzo",
-        "FOTO": "11"
+        "DIRECCION": "Av. Simon Bolivar & Cl. 38",
+        "Mes": "Enero",
+        "FOTO": "11",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.508686,
-          3.397759
+          -76.507986,
+          3.419267
         ]
       }
     },
@@ -192,16 +158,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 12",
-        "DIRECCION": "Cl. 72o #28f-43 a 28f-1",
-        "UBICACION": "Cali, Valle del Cauca, Frente al colegio academico el poblado",
-        "Mes": "Marzo",
-        "FOTO": "12"
+        "DIRECCION": "Cl. 38 & Cra. 37",
+        "Mes": "Enero",
+        "FOTO": "12",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7323787235663351046?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.496498,
-          3.420536
+          -76.550358,
+          3.427617
         ]
       }
     },
@@ -209,16 +175,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 13",
-        "DIRECCION": "Auto. Simón Bolívar",
-        "UBICACION": "Republica De Israel, Cali, Valle del Cauca, frente a venecia apartahotel",
-        "Mes": "Marzo",
-        "FOTO": "13"
+        "DIRECCION": "Cl. 70 & Av. 6",
+        "Mes": "Enero",
+        "FOTO": "13",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7325606070058044677?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.515597,
-          3.412033
+          -76.522075,
+          3.493126
         ]
       }
     },
@@ -226,16 +192,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 14",
-        "DIRECCION": "Cl. 5b 5 #38a-64 a 38a-82",
-        "UBICACION": "San Fernando, Cali, Valle del Cauca, Imbanaco",
-        "Mes": "Marzo",
-        "FOTO": "14"
+        "DIRECCION": "Av. 4 & Cl. 38",
+        "Mes": "Enero",
+        "FOTO": "14",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7324654358312865029?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.543725,
-          3.424131
+          -76.523676,
+          3.476501
         ]
       }
     },
@@ -243,16 +209,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 15",
-        "DIRECCION": "Cl 54 #47-2 a 47-42",
-        "UBICACION": "Cali, Valle del Cauca, frente a la compraventa los primos",
-        "Mes": "Marzo",
-        "FOTO": "15"
+        "DIRECCION": "Cl. 51 & Cra. 5 ",
+        "Mes": "Enero",
+        "FOTO": "15",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7326143793093250310?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.509336,
-          3.397332
+          -76.510721,
+          3.459677
         ]
       }
     },
@@ -260,16 +226,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 16",
-        "DIRECCION": "Carrera 32a #54-37 a 54-1",
-        "UBICACION": "El Retiro, Cali, Valle del Cauca, frente a la parroquia maria madre del redentor",
-        "Mes": "Marzo",
-        "FOTO": "16"
+        "DIRECCION": "Cra. 68 Cl. 30",
+        "Mes": "Enero",
+        "FOTO": "16",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7327080581542677765?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.493944,
-          3.41143
+          -76.536462,
+          3.396013
         ]
       }
     },
@@ -277,16 +243,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 17",
-        "DIRECCION": "Cra. 29 #41-56 a 41-172",
-        "UBICACION": "El Diamente, Cali, Valle del Cauca, frente a la panadería arrayanes",
-        "Mes": "Marzo",
-        "FOTO": "17"
+        "DIRECCION": "Av. 4 Cl. 38 ",
+        "Mes": "Enero",
+        "FOTO": "17",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7327804592882863366?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.499297,
-          3.421145
+          -76.524037,
+          3.476662
         ]
       }
     },
@@ -294,16 +260,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 18",
-        "DIRECCION": "Av. 3 Nte. #52 Norte-51 a 52 Norte-1",
-        "UBICACION": "El Rincon, Cali, Valle del Cauca, En la esquina de la estación de mio los Alamos",
-        "Mes": "Abril",
-        "FOTO": "18"
+        "DIRECCION": "Av. Paso ancho & 34",
+        "Mes": "Enero",
+        "FOTO": "18",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7328068660088687878?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.513751,
-          3.484105
+          -76.529861,
+          3.423214
         ]
       }
     },
@@ -311,16 +277,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 19",
-        "DIRECCION": "Cra. 66 con calle 14",
-        "UBICACION": "Cañaverales, Cali, Valle del Cauca",
-        "Mes": "Abril",
-        "FOTO": "19"
+        "DIRECCION": "Av. 4 ENTR 15 Y 18",
+        "Mes": "Enero",
+        "FOTO": "19",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7328776712962002181?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.53215,
-          3.397961
+          -76.526448,
+          3.470279
         ]
       }
     },
@@ -328,16 +294,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 20",
-        "DIRECCION": "Cl. 70 #1-55 a 1-1",
-        "UBICACION": "COMUNA 6, Cali, Palmira, Valle del Cauca, Por el terminalito",
-        "Mes": "Abril",
-        "FOTO": "20"
+        "DIRECCION": "Cl. 5 & Cra. 100",
+        "Mes": "Enero",
+        "FOTO": "20",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7329614355115412741?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.494279,
-          3.485876
+          -76.542786,
+          3.376573
         ]
       }
     },
@@ -345,16 +311,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 21",
-        "DIRECCION": "Cl 73 #9-2 a 9-50",
-        "UBICACION": "Andres Sanin, Cali, Palmira, Valle del Cauca, Frente al aparta hotel intimo",
-        "Mes": "Abril",
-        "FOTO": "21"
+        "DIRECCION": "Cra. 66 Cl. 15",
+        "Mes": "Enero",
+        "FOTO": "21",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7329672354408221957?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.483215,
-          3.448664
+          -76.529797,
+          3.397679
         ]
       }
     },
@@ -362,16 +328,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 22",
-        "DIRECCION": "Cra. 65 #5-110 a 5-212",
-        "UBICACION": "Gran Limonar, Cali, Valle del Cauca",
-        "Mes": "Abril",
-        "FOTO": "22"
+        "DIRECCION": "Cl. 16 Cra. 50",
+        "Mes": "Febrero",
+        "FOTO": "22",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7330689362381884677?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.544615,
-          3.399505
+          -76.527174,
+          3.406323
         ]
       }
     },
@@ -379,16 +345,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 23",
-        "DIRECCION": "Cl. 10 #13-107 a 13-1",
-        "UBICACION": "COMUNA 3, Cali, Valle del Cauca, San bosco",
-        "Mes": "Abril",
-        "FOTO": "23"
+        "DIRECCION": "Cra. 1a 5 #71-45 a 71-1",
+        "Mes": "Febrero",
+        "FOTO": "23",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7331426936717069574?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.532237,
-          3.444365
+          -76.48785,
+          3.486303
         ]
       }
     },
@@ -396,16 +362,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 24",
-        "DIRECCION": "Cra. 86 &, Cl. 48, Cali, Valle del Cauca",
-        "UBICACION": "Carrera 48 con carrera 86, esquina",
-        "Mes": "Abril",
-        "FOTO": "24"
+        "DIRECCION": "Cl. 59 Cra. 2",
+        "Mes": "Febrero",
+        "FOTO": "24",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7331713257465482501?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.516172,
-          3.379059
+          -76.496015,
+          3.469917
         ]
       }
     },
@@ -413,16 +379,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 25",
-        "DIRECCION": "Cl 48 entre Kr 85E y 86",
-        "UBICACION": "Cali, Valle del Cauca",
-        "Mes": "Abril",
-        "FOTO": "25"
+        "DIRECCION": "Cl. 26 & Cra.86",
+        "Mes": "Febrero",
+        "FOTO": "25",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7331775693690293510?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.516628,
-          3.379718
+          -76.518111,
+          3.45236
         ]
       }
     },
@@ -430,16 +396,16 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 26",
-        "DIRECCION": "Cl 73 #26f-2 a 26f-248",
-        "UBICACION": "Cali, Valle del Cauca, Ciudad de Cali",
-        "Mes": "Abril",
-        "FOTO": "26"
+        "DIRECCION": "Cl. 25 & 23",
+        "Mes": "Febrero",
+        "FOTO": "26",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7332198036619152645?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.484171,
-          3.435928
+          -76.537909,
+          3.438758
         ]
       }
     },
@@ -447,10 +413,860 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 27",
+        "DIRECCION": "Cl. 25 & 23A",
+        "Mes": "Febrero",
+        "FOTO": "27",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7332269162473082118?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.540641,
+          3.440616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 28",
+        "DIRECCION": "Cra. 118 Cl. 17",
+        "Mes": "Febrero",
+        "FOTO": "28",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7332947223191276806?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.543445,
+          3.349528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 29",
+        "DIRECCION": "Cl. 14 Cra. 65",
+        "Mes": "Febrero",
+        "FOTO": "29",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7333380387076459781?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53229,
+          3.400215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 30",
+        "DIRECCION": "Cl. 23 Cra. 1",
+        "Mes": "Febrero",
+        "FOTO": "30",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7333746260601605382?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.524026,
+          3.459253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 31",
+        "DIRECCION": "PUENTO DE LOS MIL DIAS",
+        "Mes": "Febrero",
+        "FOTO": "31",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7334378380198006021?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491069,
+          3.443576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 32",
+        "DIRECCION": "Av. Ciudad de Cali & Cra. 8A",
+        "Mes": "Febrero",
+        "FOTO": "32",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7335576903937559814?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.509867,
+          3.452841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 33",
+        "DIRECCION": "Cl. 25 & Cra. 33 ",
+        "Mes": "Febrero",
+        "FOTO": "33",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7335061281923271941?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.520473,
+          3.424034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 34",
+        "DIRECCION": "Cl. 70 Av. 3",
+        "Mes": "Febrero",
+        "FOTO": "34",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7335687623903644933?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.511704,
+          3.491057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 36",
+        "DIRECCION": "HOTEL DANCARTON",
+        "Mes": "Febrero",
+        "FOTO": "36",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7335809449694629125?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.540463,
+          3.450155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 37",
+        "DIRECCION": "Cl. 70 Cra. 3",
+        "Mes": "Febrero",
+        "FOTO": "37",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7336251231981079814?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486279,
+          3.47014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 38",
+        "DIRECCION": "Cra. 86 Cl. 17",
+        "Mes": "Febrero",
+        "FOTO": "38",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7336706396093746437?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.527803,
+          3.379496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 39",
+        "DIRECCION": "Cra. 83 Cl. 5A",
+        "Mes": "Febrero",
+        "FOTO": "39",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7337452301453462790?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53672,
+          3.383213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 40",
+        "DIRECCION": "Cl. 13F Cra. 55",
+        "Mes": "Febrero",
+        "FOTO": "40",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7337826620373257478?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.532315,
+          3.405058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 41",
+        "DIRECCION": "Cl. 33 Cra. 5",
+        "Mes": "Febrero",
+        "FOTO": "41",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7338196900509699333?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.513966,
+          3.458625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 42",
+        "DIRECCION": "Cra. 103 Cl. 26J",
+        "Mes": "Febrero",
+        "FOTO": "42",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7338611968158240005?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.476734,
+          3.424715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 43",
+        "DIRECCION": "Cra. 98 Cl. 34",
+        "Mes": "Febrero",
+        "FOTO": "43",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7339292957956214022?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.516807,
+          3.370797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 46",
+        "DIRECCION": "Cl. 48 & Cra. 99",
+        "Mes": "Febrero",
+        "FOTO": "46",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7341163355052297478?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.516156,
+          3.368169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 47",
+        "DIRECCION": "Cl. 72 & Cra. 5",
+        "Mes": "Marzo",
+        "FOTO": "47",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7341564414790749445?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.497785,
+          3.491686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 48",
+        "DIRECCION": "Cra. 37 & Av. Roosevelt",
+        "Mes": "Marzo",
+        "FOTO": "48",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7342290818092371205?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.540518,
+          3.424808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 49",
+        "DIRECCION": "Cl. 72u & Cra. 29",
+        "Mes": "Marzo",
+        "FOTO": "49",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7342649653084654853?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.495746,
+          3.417408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 50",
+        "DIRECCION": "Cra. 32 & Cra. 17",
+        "Mes": "Marzo",
+        "FOTO": "50",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7343020513956072709?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.517808,
+          3.425294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 51",
+        "DIRECCION": "Cl 54 entre Kr 43B y 44",
+        "Mes": "Marzo",
+        "FOTO": "51",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7343577880833772806?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.506779,
+          3.399764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 52",
+        "DIRECCION": "PISTA DE PATINAJE MOJICA",
+        "Mes": "Marzo",
+        "FOTO": "52",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7343683449812798726?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.477527,
+          3.426462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 53",
+        "DIRECCION": "Cra. 30 & Cl 8",
+        "Mes": "Marzo",
+        "FOTO": "53",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7344143692476747014?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.537088,
+          3.430159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 54",
+        "DIRECCION": "Cra. 2a & Cl. 70",
+        "Mes": "Marzo",
+        "FOTO": "54",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7345248856306666757?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486967,
+          3.472322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 55",
+        "DIRECCION": "Cra. 26p & Cl. 103",
+        "Mes": "Marzo",
+        "FOTO": "55",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7345637184885574917?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.478612,
+          3.419093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 56",
+        "DIRECCION": "Cl. 52 #5BN- 76",
+        "Mes": "Marzo",
+        "FOTO": "56",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7346735693118442757?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.498652,
+          3.439771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 57",
+        "DIRECCION": "Tv. 72u",
+        "Mes": "Marzo",
+        "FOTO": "57",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7347856021668351238?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.485304,
+          3.431708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 58",
+        "DIRECCION": "Cl. 5c & Cra. 40",
+        "Mes": "Marzo",
+        "FOTO": "58",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7348213213240118533?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.543932,
+          3.422249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 59",
+        "DIRECCION": "Cl. 72u & Cra. 29",
+        "Mes": "Marzo",
+        "FOTO": "59",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7348589404170095878?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.495749,
+          3.417401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 60",
+        "DIRECCION": "Av. Simon Bolivar & Cra. 37",
+        "Mes": "Marzo",
+        "FOTO": "60",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7348974541298748678?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.508622,
+          3.420206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 61",
+        "DIRECCION": "Cra. 28 Bis #72p-2 a 72p-42",
+        "Mes": "Marzo",
+        "FOTO": "61",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7350267528066682117?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491315,
+          3.425509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 62",
+        "DIRECCION": "Cl. 54 & Cra. 28",
+        "Mes": "Marzo",
+        "FOTO": "62",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7350817778485480710?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.499554,
+          3.430899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 63",
+        "DIRECCION": "Cra. 1a 6 & Cl. 69",
+        "Mes": "Marzo",
+        "FOTO": "63",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7351009037611240709?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491341,
+          3.48214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 64",
+        "DIRECCION": "Cra. 36 & Cl. 32",
+        "Mes": "Marzo",
+        "FOTO": "64",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7351186207805590790?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.512249,
+          3.420834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 65",
+        "DIRECCION": "Cra 1A6 & Cl. 72",
+        "Mes": "Abril",
+        "FOTO": "65",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7353418029033606405?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.487201,
+          3.483193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 66",
+        "DIRECCION": "Cl. 7A & Cra. 1A3",
+        "Mes": "Abril",
+        "FOTO": "66",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7354710609813884166?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.539341,
+          3.424471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 67",
+        "DIRECCION": "Cra. 66 &  Cl. 13F",
+        "Mes": "Abril",
+        "FOTO": "67",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7356754750613884165?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.537797,
+          3.398181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 68",
+        "DIRECCION": "Cra. 66 & Cl. 13F",
+        "Mes": "Abril",
+        "FOTO": "68",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7357184064979356934?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.538024,
+          3.398057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 69",
+        "DIRECCION": "Cl. 70 & Cra. 1 ",
+        "Mes": "Abril",
+        "FOTO": "69",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7358827815829081350?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.487697,
+          3.452366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 70",
+        "DIRECCION": "Cl. 73 & Cra. 8B",
+        "Mes": "Abril",
+        "FOTO": "70",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7359732207759478021?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483306,
+          3.450501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 71",
+        "DIRECCION": "Cl. 73 & Cra. 14",
+        "Mes": "Abril",
+        "FOTO": "71",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/photo/7359912975873953029?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483599,
+          3.447002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 72",
+        "DIRECCION": "Av. Ciudad de Cali & 13",
+        "Mes": "Abril",
+        "FOTO": "72",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7360286836025085190?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48347,
+          3.447629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 73",
+        "DIRECCION": "Cl. 28 & Cra. 1",
+        "Mes": "Abril",
+        "FOTO": "73",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7360473180630289669?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.519487,
+          3.461433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 74",
+        "DIRECCION": "Cl. 73 Cra. 8",
+        "Mes": "Abril",
+        "FOTO": "74",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7361393784422223110?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.482635,
+          3.451727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 75",
+        "DIRECCION": "Cra. 65a Cl. 9",
+        "Mes": "Abril",
+        "FOTO": "75",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7362245091634842886?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.544392,
+          3.398845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 76",
+        "DIRECCION": "Cra. 15 & Cl. 10",
+        "Mes": "Abril",
+        "FOTO": "76",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/photo/7361902763967565061?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.532003,
+          3.442554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 77",
+        "DIRECCION": "Cl. 48 & Cra. 84",
+        "Mes": "Abril",
+        "FOTO": "77",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7361866128970239238?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.516208,
+          3.382179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 78",
+        "DIRECCION": "Av. Ciudad de Cali & Cra. 7l Bis",
+        "Mes": "Abril",
+        "FOTO": "78",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7363735448923131142?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.481882,
+          3.456775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 79",
+        "DIRECCION": "Av. Ciudad  de cali & Cra. 23",
+        "Mes": "Abril",
+        "FOTO": "79",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7363817542835637509?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.528291,
+          3.43528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 80",
         "DIRECCION": "Santander de Quilichao - Cali",
-        "UBICACION": "Cali, Valle del Cauca, Simon bolivar",
         "Mes": "Mayo",
-        "FOTO": "27"
+        "FOTO": "80",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -463,11 +1279,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 28",
+        "PUNTO": "Punto 81",
         "DIRECCION": "Cl. 55 #33-2 a 33-168",
-        "UBICACION": "El Retiro, Cali, Valle del Cauca, Ciudad de Cali",
         "Mes": "Mayo",
-        "FOTO": "28"
+        "FOTO": "81",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -480,11 +1296,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 29",
+        "PUNTO": "Punto 82",
         "DIRECCION": "Cl. 42 #109",
-        "UBICACION": "Cali, Valle del Cauca, Bochalema",
         "Mes": "Mayo",
-        "FOTO": "29"
+        "FOTO": "82",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -497,11 +1313,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 30",
+        "PUNTO": "Punto 83",
         "DIRECCION": "Cl 73 #1a 10-33 a 1a 10-1",
-        "UBICACION": "COMUNA 6, Cali, Palmira, Valle del Cauca, barrio san luis",
         "Mes": "Mayo",
-        "FOTO": "30"
+        "FOTO": "83",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -514,11 +1330,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 31",
+        "PUNTO": "Punto 84",
         "DIRECCION": "Cl 73 #26c-45 a 26c-1",
-        "UBICACION": "Los Naranjos, Cali, Valle del Cauca",
         "Mes": "Mayo",
-        "FOTO": "31"
+        "FOTO": "84",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -531,11 +1347,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 32",
+        "PUNTO": "Punto 85",
         "DIRECCION": "Cl 54 #41e 1-2 a 41e 1-38",
-        "UBICACION": "Cali, Valle del Cauca, Ciudad de Cali",
         "Mes": "Mayo",
-        "FOTO": "32"
+        "FOTO": "85",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -548,11 +1364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 33",
+        "PUNTO": "Punto 86",
         "DIRECCION": "Cl 73 #1c 2-20 a 1c 2-54",
-        "UBICACION": "COMUNA 6, Cali, Palmira, Valle del Cauca, San luis",
         "Mes": "Mayo",
-        "FOTO": "33"
+        "FOTO": "86",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -565,11 +1381,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 34",
+        "PUNTO": "Punto 87",
         "DIRECCION": "Cra. 82d 4",
-        "UBICACION": "El Poblado II, Cali, Valle del Cauca, Pasando el Nuevo Latir",
         "Mes": "Mayo",
-        "FOTO": "34"
+        "FOTO": "87",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -582,11 +1398,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 35",
+        "PUNTO": "Punto 88",
         "DIRECCION": "Cl 83 #28d 2-27 a 28d 2-3",
-        "UBICACION": "El Poblado II, Cali, Valle del Cauca",
         "Mes": "Mayo",
-        "FOTO": "35"
+        "FOTO": "88",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -599,11 +1415,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 36",
+        "PUNTO": "Punto 89",
         "DIRECCION": "Cra. 86 #42-2 a 42-20",
-        "UBICACION": "Cali, Valle del Cauca, la cuadra de la policlinica, barrio el caney",
         "Mes": "Mayo",
-        "FOTO": "36"
+        "FOTO": "89",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -616,11 +1432,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 37",
+        "PUNTO": "Punto 90",
         "DIRECCION": "Cl. 48 #97-36",
-        "UBICACION": "Cali, Valle del Cauca, valle de lili",
         "Mes": "Mayo",
-        "FOTO": "37"
+        "FOTO": "90",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -633,11 +1449,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 38",
+        "PUNTO": "Punto 91",
         "DIRECCION": "Cl. 42 #85-49 a 85-3",
-        "UBICACION": "Cali, Valle del Cauca, Caney",
         "Mes": "Mayo",
-        "FOTO": "38"
+        "FOTO": "91",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -650,11 +1466,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 39",
+        "PUNTO": "Punto 92",
         "DIRECCION": "Cra. 83c #25-91 a 25-49",
-        "UBICACION": "Cali, Valle del Cauca, frente al terpel de caney plaza",
         "Mes": "Mayo",
-        "FOTO": "39"
+        "FOTO": "92",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -667,11 +1483,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 40",
+        "PUNTO": "Punto 93",
         "DIRECCION": "Cl. 42 #83b-2 a 83b-124",
-        "UBICACION": "Cali, Valle del Cauca",
         "Mes": "Mayo",
-        "FOTO": "40"
+        "FOTO": "93",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -684,11 +1500,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 41",
+        "PUNTO": "Punto 94",
         "DIRECCION": "Cl. 42 #80-27 a 80-1",
-        "UBICACION": "Cali, Valle del Cauca, Caney",
         "Mes": "Mayo",
-        "FOTO": "41"
+        "FOTO": "94",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -701,11 +1517,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 42",
+        "PUNTO": "Punto 95",
         "DIRECCION": "Cl. 42 #82-45 a 82-9",
-        "UBICACION": "Cali, Valle del Cauca, Caney",
         "Mes": "Mayo",
-        "FOTO": "42"
+        "FOTO": "95",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -718,11 +1534,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 43",
+        "PUNTO": "Punto 96",
         "DIRECCION": "Cra. 80 con 42",
-        "UBICACION": "Cali, Valle del Cauca, Caney",
         "Mes": "Junio",
-        "FOTO": "43"
+        "FOTO": "96",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -735,11 +1551,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 44",
+        "PUNTO": "Punto 97",
         "DIRECCION": "Kr 83C entre Cl 36 y 34",
-        "UBICACION": "Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "44"
+        "FOTO": "97",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -752,11 +1568,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 45",
+        "PUNTO": "Punto 98",
         "DIRECCION": "Cra. 94 #25-61 a 25-1",
-        "UBICACION": "Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "45"
+        "FOTO": "98",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -769,11 +1585,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 46",
+        "PUNTO": "Punto 99",
         "DIRECCION": "Cl. 34 #93-89 a 93-1",
-        "UBICACION": "Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "46"
+        "FOTO": "99",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -786,11 +1602,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 47",
+        "PUNTO": "Punto 100",
         "DIRECCION": "Cl. 3 con carrera 66",
-        "UBICACION": "Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "47"
+        "FOTO": "100",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -803,11 +1619,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 48",
+        "PUNTO": "Punto 101",
         "DIRECCION": "Kr 73 entre Cl 3 y 2C",
-        "UBICACION": "Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "48"
+        "FOTO": "101",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -820,11 +1636,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 49",
+        "PUNTO": "Punto 102",
         "DIRECCION": "Cl. 62 #1a 5-41 a 1a 5-23",
-        "UBICACION": "Comuna 5, Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "49"
+        "FOTO": "102",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -837,11 +1653,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 50",
+        "PUNTO": "Punto 103",
         "DIRECCION": "Cra. 65 #5-110 a 5-212",
-        "UBICACION": "Gran Limonar, Cali, Valle del Cauca, frente al chuzo de nando",
         "Mes": "Junio",
-        "FOTO": "50"
+        "FOTO": "103",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -854,11 +1670,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 51",
+        "PUNTO": "Punto 104",
         "DIRECCION": "Cra. 23a #1",
-        "UBICACION": "La Alameda, Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "51"
+        "FOTO": "104",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -871,11 +1687,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 52",
+        "PUNTO": "Punto 105",
         "DIRECCION": "Autopista Sur",
-        "UBICACION": "Cali, Valle del Cauca",
         "Mes": "Junio",
-        "FOTO": "52"
+        "FOTO": "105",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -888,11 +1704,11 @@
     {
       "type": "Feature",
       "properties": {
-        "PUNTO": "Punto 53",
+        "PUNTO": "Punto 106",
         "DIRECCION": "Cl. 13 #103-127 a 103-1",
-        "UBICACION": "Ciudad Jardín, Cali, Valle del Cauca, Por el carulla",
         "Mes": "Junio",
-        "FOTO": "53"
+        "FOTO": "106",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco"
       },
       "geometry": {
         "type": "Point",
@@ -904,4 +1720,3 @@
     }
   ]
 }
-

@@ -568,4 +568,18 @@ main .recent-order #map{
     font-size: 2rem;
 }
 
+main .insights .sales .middle .left .banco{
+    background: #FFD246;
+    padding: 0.05rem;
+    color: var(--color-white);
+    font-size: 2rem;
+}
+
+main .insights >div span{
+    background: var(--color-primary);
+    padding: 0.05rem;
+    color: var(--color-white);
+    font-size: 2rem;
+}
+
 }

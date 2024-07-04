@@ -1,24 +1,24 @@
 const sideMenu = document.querySelector("aside");
 const menuBtn = document.querySelector("#menu-btn");
 const closeBtn = document.querySelector("#close-btn");
-const themeToggler = document.querySelector(".theme-toggler")
+const themeToggler = document.querySelector(".theme-toggler");
 
-menuBtn.addEventListener('click', () => { 
+menuBtn.addEventListener('click', () => {
     sideMenu.style.display = 'block';
-})
+});
 
-closeBtn.addEventListener('click', () => { 
+closeBtn.addEventListener('click', () => {
     sideMenu.style.display = 'none';
-})
+});
 
-themeToggler.addEventListener('click', () => { 
+themeToggler.addEventListener('click', () => {
     document.body.classList.toggle('dark-theme-variables');
     if (document.body.classList.contains('dark-theme-variables')) {
         drawBarChartDark(puntosDataGlobal);
     } else {
         drawBarChartLight(puntosDataGlobal);
     }
-})
+});
 
 // Inicializar el mapa y establecer la vista inicial
 var map = L.map('map').setView([3.425592, -76.517052222], 12);
@@ -51,7 +51,7 @@ var customIcon = L.icon({ iconUrl: 'images/samuel-marker-prueba.png', // Ruta a 
     popupAnchor: [0, -67] // Punto de anclaje del popup 
     });
 
-var puntosLayer, comunasLayer;
+var puntosLayer, comunasLayer, barriosLayer;
 var puntosDataGlobal;
 var markers = {};
 var prevMarker = null;
@@ -67,7 +67,7 @@ function getColor(d) {
                      '#FFEDA0';
 }
 
-// Función para contar los puntos dentro de cada comuna
+// Función para contar los puntos dentro de cada comuna o barrio
 function countPointsInPolygons(polygons, points) {
     polygons.features.forEach(polygon => {
         polygon.properties.point_count = 0;
@@ -80,7 +80,7 @@ function countPointsInPolygons(polygons, points) {
 }
 
 // Estilo para las comunas
-function style(feature) {
+function styleComunas(feature) {
     return {
         fillColor: getColor(feature.properties.point_count),
         weight: 2,
@@ -91,7 +91,19 @@ function style(feature) {
     };
 }
 
-// Función para resaltar la comuna
+// Estilo para los barrios
+function styleBarrios(feature) {
+    return {
+        fillColor: getColor(feature.properties.point_count),
+        weight: 2,
+        opacity: 1,
+        color: 'white',
+        dashArray: '3',
+        fillOpacity: 0.7
+    };
+}
+
+// Función para resaltar la comuna o barrio
 function highlightFeature(e) {
     var layer = e.target;
 
@@ -108,11 +120,15 @@ function highlightFeature(e) {
 
 // Función para restablecer el resaltado
 function resetHighlight(e) {
-    comunasLayer.resetStyle(e.target);
+    if (comunasLayer && map.hasLayer(comunasLayer)) {
+        comunasLayer.resetStyle(e.target);
+    } else if (barriosLayer && map.hasLayer(barriosLayer)) {
+        barriosLayer.resetStyle(e.target);
+    }
     info.update();
 }
 
-// Función para hacer zoom a la comuna
+// Función para hacer zoom a la comuna o barrio
 function zoomToFeature(e) {
     map.fitBounds(e.target.getBounds());
 }
@@ -135,11 +151,19 @@ info.onAdd = function (map) {
     return this._div;
 };
 
+// Actualizar información en el control
 info.update = function (props) {
-    this._div.innerHTML = '<h4 style="color: black;">Huecos por Comuna</h4>' +  
-        (props ?
-            '<b style="color: black;">' + props.nombre + '</b><br /><span style="color: black;">' + props.point_count + ' huecos reparchados</span>'
-            : '<span style="color: black;">Pasa el mouse sobre una comuna</span>');
+    if (comunasLayer && map.hasLayer(comunasLayer)) {
+        this._div.innerHTML = '<h4 style="color: black;">Reparchamientos por Comuna</h4>' +  
+            (props ?
+                '<b style="color: black;">' + props.nombre + '</b><br /><span style="color: black;">' + props.point_count + ' REPARCHAMIENTO</span>'
+                : '<span style="color: black;">Pasa el mouse sobre una comuna</span>');
+    } else if (barriosLayer && map.hasLayer(barriosLayer)) {
+        this._div.innerHTML = '<h4 style="color: black;">Reparchamientos por Barrio</h4>' +  
+            (props ?
+                '<b style="color: black;">' + props.NOMBRE + '</b><br /><span style="color: black;">' + props.point_count + ' REPARCHAMIENTO</span>'
+                : '<span style="color: black;">Pasa el mouse sobre un barrio</span>');
+    }
 };
 
 info.addTo(map);
@@ -166,7 +190,7 @@ legend.addTo(map);
 // Función para actualizar el conteo de puntos en el DOM
 function updatePointCount(pointCount) {
     document.getElementById('total-points').innerText = pointCount;
-    document.getElementById('total-points-multiplied').innerText = pointCount * 20000;
+    document.getElementById('total-points-multiplied').innerText = pointCount * 29;
 }
 
 // Función para contar los puntos por mes y dibujar el gráfico de barras para el tema claro
@@ -195,7 +219,7 @@ function drawBarChartLight(points) {
         data: {
             labels: months,
             datasets: [{
-                label: 'HUECOS TAPADOS POR MES',
+                label: 'REPARCHEOS POR MES',
                 data: counts,
                 backgroundColor: colors,
                 borderColor: [
@@ -236,7 +260,7 @@ function drawBarChartLight(points) {
                     labels: {
                         generateLabels: function(chart) {
                             return [{
-                                text: 'HUECOS TAPADOS POR MES',
+                                text: 'REPARCHEOS POR MES',
                                 fillStyle: 'rgba(0, 0, 0, 0)', // Caja transparente
                                 strokeStyle: 'rgba(0, 0, 0, 0)', // Borde transparente
                                 lineWidth: 0 // Sin borde
@@ -366,12 +390,14 @@ function drawBarChartDark(points) {
 function showPointInfo(point) {
     var infoImage = document.getElementById('info-image');
     var infoDireccion = document.getElementById('info-direccion');
-    var infoUbicacion = document.getElementById('info-ubicacion');
+    var infoVideo = document.getElementById('info-ubicacion');
     var infoMes = document.getElementById('info-mes');
 
     infoImage.src = 'fotos/' + point.properties.FOTO + '.png';
+    var videoUrl = point.properties.VIDEO;
+
     infoDireccion.innerText =  point.properties.DIRECCION;
-    infoUbicacion.innerText = point.properties.UBICACION;
+    infoVideo.innerHTML = '<a href="' + videoUrl + '" target="_blank" style="color: blue; text-decoration: underline;">Tiktok</a>';
     infoMes.innerText = point.properties.Mes;
 }
 
@@ -391,7 +417,7 @@ function startSlideshow(points) {
         elevateMarker({ target: currentMarker });
         prevMarker = currentMarker;
         index++;
-    }, 10000); // Desplazamiento cada 10 segundos
+    }, 20000); // Desplazamiento cada 20 segundos
 }
 
 // Funciones para elevar el marcador y añadir sombra
@@ -433,22 +459,30 @@ document.getElementById('insta-text').addEventListener('click', function() {
     window.open('https://www.instagram.com/samuel.merchan.315?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==', '_blank');
 });
 
-
 // Cargar las capas GeoJSON
 Promise.all([
     fetch('comunas_cali.geojson').then(response => response.json()),
-    fetch('puntos.geojson').then(response => response.json())
+    fetch('puntos.geojson').then(response => response.json()),
+    fetch('barrios.geojson').then(response => response.json()) // Cargar la capa de barrios
 ]).then(data => {
     var comunasData = data[0];
     var puntosData = data[1];
+    var barriosData = data[2];
     puntosDataGlobal = puntosData;
 
-    // Contar puntos en cada comuna
+    // Contar puntos en cada comuna y barrio
     countPointsInPolygons(comunasData, puntosData);
+    countPointsInPolygons(barriosData, puntosData);
 
     // Añadir capa de comunas
     comunasLayer = L.geoJson(comunasData, {
-        style: style,
+        style: styleComunas,
+        onEachFeature: onEachFeature
+    });
+
+    // Añadir capa de barrios
+    barriosLayer = L.geoJson(barriosData, {
+        style: styleBarrios,
         onEachFeature: onEachFeature
     });
 
@@ -471,17 +505,40 @@ Promise.all([
         }
     });
 
-    // Añadir control de capas
+    // Añadir control de capas con lógica de exclusión mutua
     var overlayMaps = {
         "Comunas": comunasLayer,
+        "Barrios": barriosLayer,
         "Huecos": puntosLayer
     };
 
-    L.control.layers(null, overlayMaps, { collapsed: true, position: 'topright' }).addTo(map);
+    L.control.layers(null, overlayMaps, {
+        collapsed: true,
+        position: 'topright'
+    }).addTo(map);
 
     // Añadir capas al mapa
     comunasLayer.addTo(map);
     puntosLayer.addTo(map);
+
+    // Escuchar cambios en las capas base y aplicar lógica de exclusión mutua
+    map.on('baselayerchange', function(e) {
+        if (e.name === 'Comunas') {
+            if (map.hasLayer(barriosLayer)) {
+                map.removeLayer(barriosLayer);
+            }
+            if (!map.hasLayer(comunasLayer)) {
+                map.addLayer(comunasLayer);
+            }
+        } else if (e.name === 'Barrios') {
+            if (map.hasLayer(comunasLayer)) {
+                map.removeLayer(comunasLayer);
+            }
+            if (!map.hasLayer(barriosLayer)) {
+                map.addLayer(barriosLayer);
+            }
+        }
+    });
 
     // Actualizar el conteo de puntos en el DOM
     updatePointCount(puntosData.features.length);

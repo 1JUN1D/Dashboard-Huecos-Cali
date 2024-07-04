@@ -511,6 +511,8 @@ main .recent-order {
 }
 
 
+
+
 /*=============MEDIA QUERIES===================*/
 
 @media (min-width: 1201px) and (max-width: 1440px) {
@@ -522,7 +524,7 @@ main .recent-order {
 
     main .insights{
         display: grid;
-        grid-template-columns: 10rem 25rem auto;
+        grid-template-columns: 13rem 25rem auto;
         gap: 1rem;
     }
 

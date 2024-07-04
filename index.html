@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Responsive Dashboard</title>
+    <title>Samuel Merchan - Dashboard</title>
+
+    <link rel="icon" href="images/logo.png">
     <!--MATERIAL CDN-->
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
     <!--STYLESHEET-->
@@ -46,30 +48,27 @@
                         </span>                    
                     <h3>Donaciones</h3>
                 </a>
-                <a href="#">
-                    <span class="material-symbols-outlined"> mail</span>
-                    <h3>Messages</h3>
-                </a>
-                <a href="#">
-                    <span class="material-symbols-outlined"> add</span>
-                    <h3>Add product</h3>
+                <a href="contacto.html">
+                    <span class="material-symbols-outlined">
+                        handshake
+                        </span>                    <h3>Colaboradores</h3>
                 </a>
             </div>
         </aside>
         <!---------------------- END OF ASIDE------------------->
         <main>
-            <h2>HUECOS EN CALI - PANEL DE CONTROL</h2>
+            <h2>HUECOS EN CALI, SITIOS INTERVENIDOS DEL 1° SEMESTRE 2024</h2>
             <div class="insights">
                 <div class="sales">
                     <div class="middle">
                         <div class="left">
-                            <h4 style=" text-align: center">TOTAL DE <br> HUECOS REPARADOS</h4>
+                            <h4 style=" text-align: center">TOTAL DE <br> REPARCHEOS</h4>
                             <div class="progress">
                                 <h1 id="total-points" style="color: red; text-align: center">0</h1>
                                 <img class="trab"  src="./images/trab.png" alt="">
                             </div>
                             <br>
-                            <h4 style=" text-align: center">NUMERO DE <br> ACCIDENTES EVITADOS</h4>
+                            <h4 style=" text-align: center">NUMERO DE <br> ACCIDENTES EVITADOS AL MES</h4>
                             <div class="progress">
                                 <h1 id="total-points-multiplied" style="color: red; text-align: center">0</h1>
                                 <img src="./images/bache.png" alt="">
@@ -80,13 +79,27 @@
                 <!-----------------END OF SALES------------------>
                 <div class="expenses">
                     <div class="middle">
-                        <h3 style=" text-align: center">HUECOS TAPADOS POR MES</h3>
+                        <h3 style=" text-align: center">REPARCHEOS POR MES</h3>
                         <canvas id="barChart"></canvas>
                     </div>
                 </div>
                 <!-----------------END OF EXPENSES------------------>
                 <div class="income">
-                    <H1>ESTE ESPACIO <BR> EN BLANCO <BR> ES PARA APROVEHCAR  </BR> CON MAS INFO</H1>
+                    <div class="middle">
+                        <div class="left">
+                            <h4 style=" text-align: center">METROS LINEALES <br> RECUPERADOS</h4>
+                            <div class="progress">
+                                <h1 id="total-points" style="color: rgb(67, 162, 26); text-align: center">143 </h1>
+                                <img class="trab"  src="./images/carretera.png" alt="">
+
+                            </div>
+                            <br>
+                            <h4 style=" text-align: center">INVERSION REALIZADA <br> POR LA COMUNIDAD</h4>
+                            <div class="progress">
+                                <h1 id="total-points-multiplied" style="color: rgb(67, 162, 26); text-align: center">$20'000.000</h1>
+                            </div>  
+                        </div>
+                    </div>
                 </div>
                 <!-----------------END OF INCOME------------------>
             </div>
@@ -162,10 +175,11 @@
                         <img id="info-image" src="./images/samuel.png" alt="Imagen del punto" style="width: 85%; height: auto; justify-content: center; align-items: center;">
                         <br>
                         <div id="info-details">
-                                <h3>Direccion <p id="info-direccion"></p></h3> 
-                                <h3>Ubicacion <p id="info-ubicacion"></p></h3> 
-                                <h3>Mes <p id="info-mes"></p></h3> 
+                            <h3>Direccion <p id="info-direccion"></p></h3> 
+                            <h3>Video<p id="info-ubicacion"></p></h3> 
+                            <h3>Mes <p id="info-mes"></p></h3> 
                         </div>
+                        
                     </div>
                 </div>
             </div>
