@@ -524,7 +524,7 @@ main .recent-order {
 
     main .insights{
         display: grid;
-        grid-template-columns: 13rem 25rem auto;
+        grid-template-columns: 14rem 25rem auto;
         gap: 1rem;
     }
 
