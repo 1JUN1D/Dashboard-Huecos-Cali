@@ -379,7 +379,7 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 25",
-        "DIRECCION": "Cl. 26 & Cra.86",
+        "DIRECCION": "Cl. 25 & Cra.94",
         "Mes": "Febrero",
         "FOTO": "25",
         "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7331775693690293510?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
@@ -387,8 +387,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.518111,
-          3.45236
+          -76.524573,
+          3.374300
         ]
       }
     },
