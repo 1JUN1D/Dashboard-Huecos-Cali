@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /private/
+Disallow: /temp/
+Disallow: /noindex/
+
+# Bloquear rastreadores específicos
+User-agent: BadBot
+Disallow: /
+
+# Proveer la ubicación del sitemap
+Sitemap: https://samuelmerchan.cusig.co/sitemap.xml
