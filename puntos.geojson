@@ -379,7 +379,7 @@
       "type": "Feature",
       "properties": {
         "PUNTO": "Punto 25",
-        "DIRECCION": "Cl. 26 & Cra.86",
+        "DIRECCION": "Cl. 25 & Cra.94",
         "Mes": "Febrero",
         "FOTO": "25",
         "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7331775693690293510?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
@@ -387,8 +387,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.518111,
-          3.45236
+          -76.524573,
+          3.374300
         ]
       }
     },
@@ -1715,6 +1715,244 @@
         "coordinates": [
           -76.537199,
           3.366885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 107",
+        "DIRECCION": "Crr. 1h - Cll. 62",
+        "Mes": "Julio",
+        "FOTO": "107",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7387867908686368006?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.492802,
+          3.473086
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 108",
+        "DIRECCION": "Cl. 25 #94-128 a 94-262",
+        "Mes": "Julio",
+        "FOTO": "108",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7388715936167070981?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.524613,
+          3.374087
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 109",
+        "DIRECCION": "Cra. 65 #5-110 a 5-212",
+        "Mes": "Julio",
+        "FOTO": "109",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7389419548224670982?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.545124,
+          3.399445
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 110",
+        "DIRECCION": "Cl. 52 Nte. #5b Norte-107 a 5b Norte-1",
+        "Mes": "Julio",
+        "FOTO": "110",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7389795361302252806?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.522874,
+          3.488586
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 111",
+        "DIRECCION": "Santander de Quilichao - Cali",
+        "Mes": "Julio",
+        "FOTO": "111",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7389795361302252806?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.523358,
+          3.333067
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 112",
+        "DIRECCION": "Cra. 5 #62-71 a 62-1",
+        "Mes": "Julio",
+        "FOTO": "112",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7390896372616137990?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.490454,
+          3.465924
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 113",
+        "DIRECCION": "Av. 5a Nte. #51 Norte-2 a 51 Norte-78",
+        "Mes": "Julio",
+        "FOTO": "113",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7391085250543209733?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.522812,
+          3.488064
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 114",
+        "DIRECCION": "Cl. 62 #4c-2 a 4c-90",
+        "Mes": "Julio",
+        "FOTO": "114",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7391085250543209733?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491011,
+          3.467232
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 115",
+        "DIRECCION": "Cra. 4c",
+        "Mes": "Julio",
+        "FOTO": "115",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7391085250543209733?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491096,
+          3.467239
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 116",
+        "DIRECCION": "Cl. 62 #4c-2 a 4c-58",
+        "Mes": "Julio",
+        "FOTO": "116",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7391085250543209733?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491155,
+          3.467187
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 117",
+        "DIRECCION": "Cl 73 #5-231 a 5-1",
+        "Mes": "Julio",
+        "FOTO": "117",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7392649699397799173?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.479712,
+          3.467316
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 118",
+        "DIRECCION": "Jorge Eliecar Gaitan",
+        "Mes": "Julio",
+        "FOTO": "118",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7393397867865541894?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.480167,
+          3.468797
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 119",
+        "DIRECCION": "Cl. 76 #7j-2 a 7j-52",
+        "Mes": "Julio",
+        "FOTO": "119",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7394981242233457926?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.480090,
+          3.458204
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 120",
+        "DIRECCION": "Cl. 55 #32a-143 a 32a-1",
+        "Mes": "Julio",
+        "FOTO": "120",
+        "VIDEO": "https://www.tiktok.com/@samy_ofendidotantohueco/video/7396093165863832838?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.493254,
+          3.410594
         ]
       }
     }

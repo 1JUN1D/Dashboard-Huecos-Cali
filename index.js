@@ -249,7 +249,7 @@ function drawBarChartLight(points) {
                     ticks: {
                         color: '#000',
                         font: {
-                            size: 12
+                            size: 10
                         }
                     }
                 }
