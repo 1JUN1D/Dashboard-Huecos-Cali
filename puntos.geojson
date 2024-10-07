@@ -1955,6 +1955,295 @@
           3.410594
         ]
       }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 121",
+        "DIRECCION": "Cl. 62 con Carrera 1D",
+        "Mes": "Agosto",
+        "FOTO": "121",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7398694004889488645?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.494249,
+          3.477084
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 122",
+        "DIRECCION": "Cl. 62 con Carrera 1D",
+        "Mes": "Agosto",
+        "FOTO": "122",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7399798901961739526?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.492553,
+          3.472268
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 123",
+        "DIRECCION": "Cl 73 #7e Bis-61 a 7e Bis-15",
+        "Mes": "Agosto",
+        "FOTO": "123",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7401125076927646981?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.480757,
+          3.461272
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 124",
+        "DIRECCION": "Cra 8",
+        "Mes": "Agosto",
+        "FOTO": "124",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7401125076927646981?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.479723,
+          3.450400
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 125",
+        "DIRECCION": "Cl 73 #9-2 a 9-50",
+        "Mes": "Agosto",
+        "FOTO": "125",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7401284519082396933?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483177,
+          3.448960
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 126",
+        "DIRECCION": "Cl. 121 Manuela Beltran",
+        "Mes": "Agosto",
+        "FOTO": "126",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7401655995199409414?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.474129,
+          3.408204
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 127",
+        "DIRECCION": "Cra. 25a #39-2 a 39-60",
+        "Mes": "Agosto",
+        "FOTO": "127",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7402255503515979014?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.503891,
+          3.435580
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 128",
+        "DIRECCION": " Cl 73 #4-2 a 4-152",
+        "Mes": "Agosto",
+        "FOTO": "128",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7402398508411620613?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.480886,
+          3.469934
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 129",
+        "DIRECCION": " Cl. 47 Nte. & Av. 2 Nte.",
+        "Mes": "Agosto",
+        "FOTO": "129",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7403141032210222342?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.512344,
+          3.477913
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 130",
+        "DIRECCION": "Av. 2 Nte. #49Norte-67 a 49Norte-1",
+        "Mes": "Agosto",
+        "FOTO": "130",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7403442409507523845?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.510772,
+          3.480055
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 131",
+        "DIRECCION": "Cra. 4c #52-145 a 52-3",
+        "Mes": "Agosto",
+        "FOTO": "131",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7403885877438483718?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.500064,
+          3.464479
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 132",
+        "DIRECCION": "Gta. Menga Acopi",
+        "Mes": "Agosto",
+        "FOTO": "132",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7405654348434263301?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.509483,
+          3.464479
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 133",
+        "DIRECCION": "Av 2b Nte. #70 Norte-141 a 70 Norte-1 Acopi",
+        "Mes": "Agosto",
+        "FOTO": "133",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7405739716089318661?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.506500,
+          3.489875 
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 134",
+        "DIRECCION": "Cra. 38 #15-2 a 15-8",
+        "Mes": "Agosto",
+        "FOTO": "134",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7406114218748955909?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.509122,
+          3.492687 
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 135",
+        "DIRECCION": "Cl. 23 #28-2 a 28-78",
+        "Mes": "Agosto",
+        "FOTO": "135",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7407965343282449670?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.520836,
+          3.429932
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 136",
+        "DIRECCION": " Cra. 27 #36a-2 a 36a-98 ",
+        "Mes": "Agosto",
+        "FOTO": "136",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7408623025211329797?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.503708,
+          3.434030
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 137",
+        "DIRECCION": "Cl. 73 Bis Nte. #2b 1 Norte-137 a 2b 1 Norte-1 Acopi",
+        "Mes": "Agosto",
+        "FOTO": "137",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7408704461910052101?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.504761,
+          3.493182
+        ]
+      }
     }
   ]
 }
