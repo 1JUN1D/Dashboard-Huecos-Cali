@@ -2244,6 +2244,74 @@
           3.493182
         ]
       }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 138",
+        "DIRECCION": "Cl. 52 Nte. #3f Norte-50 a 3f Norte-212",
+        "Mes": "Septiembre",
+        "FOTO": "138",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7410380200652852485?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.517316,
+          3.486024
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 139",
+        "DIRECCION": "Cl. 11a #72-2 a 72-44",
+        "Mes": "Septiembre",
+        "FOTO": "139",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7414671252675104006?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.539841,
+          3.391833
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 140",
+        "DIRECCION": "Cl 1A B #69-2 a 69-26 ",
+        "Mes": "Septiembre",
+        "FOTO": "140",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7415397813732904197?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.554948,
+          3.394149
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 141",
+        "DIRECCION": "Cl. 123 #28b 1-116 a 28b 1-178",
+        "Mes": "Septiembre",
+        "FOTO": "141",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7419467591455870214?is_from_webapp=1&sender_device=pc&web_id=7365940802046592517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.470015,
+          3.408368
+        ]
+      }
     }
   ]
 }
