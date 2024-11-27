@@ -132,8 +132,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.516418,
-          3.364204
+          -76.51624627851449,
+          3.3645727959005853 
         ]
       }
     },
@@ -540,8 +540,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.511704,
-          3.491057
+          -76.5124603453713,
+          3.491002950852284 
         ]
       }
     },
@@ -1271,8 +1271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.525055,
-          3.382911
+          -76.52507641699485,
+          3.338774778048579 
         ]
       }
     },
@@ -1305,8 +1305,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.520308,
-          3.358866
+          -76.52429550251072,
+          3.358688859915855 
         ]
       }
     },
@@ -1798,8 +1798,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.523358,
-          3.333067
+          -76.52461749138642,
+          3.335151495930414 
         ]
       }
     },
@@ -2189,8 +2189,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.509122,
-          3.492687 
+          -76.5050807729639,
+          3.491308486125932 
         ]
       }
     },
@@ -2310,6 +2310,346 @@
         "coordinates": [
           -76.470015,
           3.408368
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 142",
+        "DIRECCION": "Cra. 1a 4 #73-90",
+        "Mes": "Octubre",
+        "FOTO": "142",
+        "VIDEO": "https://www.facebook.com/share/p/1DmpACYPR6/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48638636,
+          3.4888663
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 143",
+        "DIRECCION": "Cra. 1a 4a #73-05",
+        "Mes": "Octubre",
+        "FOTO": "143",
+        "VIDEO": "https://www.facebook.com/share/v/1B6KvATmS7/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48718516,
+          3.48818873
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 144",
+        "DIRECCION": "Cl. 14 #33a-223 a 33a-99",
+        "Mes": "Octubre",
+        "FOTO": "144",
+        "VIDEO": "https://www.facebook.com/share/p/181EK9DwXP/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.527620291,
+          3.42344018
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 145",
+        "DIRECCION": "Centro Comercial Pryca, Cl. 13 #31-45",
+        "Mes": "Octubre",
+        "FOTO": "145",
+        "VIDEO": "https://www.facebook.com/share/p/19hY3hT6Xu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5287042394,
+          3.42590476326
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 146",
+        "DIRECCION": "Cra. 5 #59-2 a 59-202",
+        "Mes": "Octubre",
+        "FOTO": "146",
+        "VIDEO": "https://www.facebook.com/61554592300428/videos/736388165335666/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4934688288,
+          3.465057292224
+        ]
+      }
+    }, 
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 147",
+        "DIRECCION": "Cra. 5 #45-173 a 45-3",
+        "Mes": "Octubre",
+        "FOTO": "147",
+        "VIDEO": "https://www.facebook.com/61554592300428/videos/508629621985065/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50468327301714,
+          3.46167439260742
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 148",
+        "DIRECCION": "Av. 4 Oe. #1-04",
+        "Mes": "Octubre",
+        "FOTO": "148",
+        "VIDEO": "https://www.facebook.com/share/v/1FNj7QR7QY/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54167342420737,
+          3.452273621771871
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 149",
+        "DIRECCION": "Cra. 24b 1 #70a-2 a 70a-24",
+        "Mes": "Octubre",
+        "FOTO": "149",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7428794177103645958?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48810689999102,
+          3.4399429403007526
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 150",
+        "DIRECCION": "Cra. 76 #3 D-04",
+        "Mes": "Octubre",
+        "FOTO": "150",
+        "VIDEO": "https://www.facebook.com/share/v/1GavSjXuqt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54728510868351,
+          3.3891312452823077
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 151",
+        "DIRECCION": "Cl. 44 Nte.",
+        "Mes": "Noviembre",
+        "FOTO": "151",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7432725930512076037?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52089371906742,
+          3.480254934394956 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 152",
+        "DIRECCION": "Cl 73 #1a 4-2 a 1a 4-194",
+        "Mes": "Noviembre",
+        "FOTO": "152",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7434313925996367160?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48716748070703,
+          3.487779762649427 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 153",
+        "DIRECCION": "Cl. 15 & Cra. 66",
+        "Mes": "Noviembre",
+        "FOTO": "153",
+        "VIDEO": "https://www.facebook.com/share/v/15gjuQLSwY/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52735448319982,
+          3.3975641638092564 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 154",
+        "DIRECCION": "Cra. 46 #4786 a 4800",
+        "Mes": "Noviembre",
+        "FOTO": "154",
+        "VIDEO": "https://www.facebook.com/share/v/19quVmakKt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51078296441808,
+          3.401779664897377 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 155",
+        "DIRECCION": "Cl. 52 #3-173 local 422",
+        "Mes": "Noviembre",
+        "FOTO": "155",
+        "VIDEO": "https://www.facebook.com/share/v/19XxQPtPhe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51078296441808,
+          3.401779664897377 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 156",
+        "DIRECCION": "Calle 49N Av 6 255",
+        "Mes": "Noviembre",
+        "FOTO": "156",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7437123620679241016?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52812950295008,
+          3.488039892059579 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 157",
+        "DIRECCION": "Cra. 1c 3 #7959 79- a",
+        "Mes": "Noviembre",
+        "FOTO": "157",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7439187511886335288?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48041516356317,
+          3.4795659743988137 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 158",
+        "DIRECCION": "a 73-53, Cra. 1j #73-1",
+        "Mes": "Noviembre",
+        "FOTO": "158",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7438767208894893367?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48285970218852,
+          3.474667489355773 
+        ] 
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 159",
+        "DIRECCION": "Cra. 8 Nte. #4138",
+        "Mes": "Noviembre",
+        "FOTO": "159",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7438767208894893367?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51463791778278,
+          3.472187027423833 
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 160",
+        "DIRECCION": "Cra. 5 Nte. #42 Norte-2 a 42 Norte-58",
+        "Mes": "Noviembre",
+        "FOTO": "160",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7440284328174570808?is_from_webapp=1&sender_device=pc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51294083312254,
+          3.471046063380925 
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 161",
+        "DIRECCION": "Dg. 20 #30-91",
+        "Mes": "Noviembre",
+        "FOTO": "161",
+        "VIDEO": "https://www.facebook.com/share/v/18FJZfPDJo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51304315088584,
+          3.4391567274887924 
         ]
       }
     }
