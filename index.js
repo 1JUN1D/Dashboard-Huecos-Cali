@@ -156,12 +156,12 @@ info.update = function (props) {
     if (comunasLayer && map.hasLayer(comunasLayer)) {
         this._div.innerHTML = '<h4 style="color: black;">Reparchamientos por Comuna</h4>' +  
             (props ?
-                '<b style="color: black;">' + props.nombre + '</b><br /><span style="color: black;">' + props.point_count + ' REPARCHAMIENTO</span>'
+                '<b style="color: black;">' + props.nombre + '</b><br /><span style="color: black;">' + props.point_count + ' REPARCHAMIENTO(S)</span>'
                 : '<span style="color: black;">Pasa el mouse sobre una comuna</span>');
     } else if (barriosLayer && map.hasLayer(barriosLayer)) {
         this._div.innerHTML = '<h4 style="color: black;">Reparchamientos por Barrio</h4>' +  
             (props ?
-                '<b style="color: black;">' + props.NOMBRE + '</b><br /><span style="color: black;">' + props.point_count + ' REPARCHAMIENTO</span>'
+                '<b style="color: black;">' + props.NOMBRE + '</b><br /><span style="color: black;">' + props.point_count + ' REPARCHAMIENTO(S)</span>'
                 : '<span style="color: black;">Pasa el mouse sobre un barrio</span>');
     }
 };
@@ -249,7 +249,7 @@ function drawBarChartLight(points) {
                     ticks: {
                         color: '#000',
                         font: {
-                            size: 6
+                            size: 7
                         }
                     }
                 }
