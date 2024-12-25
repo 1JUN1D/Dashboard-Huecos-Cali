@@ -2652,6 +2652,125 @@
           3.4391567274887924 
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 162",
+        "DIRECCION": "Conjunto Residencial Arboleda del Sur",
+        "Mes": "Diciembre",
+        "FOTO": "162",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7444358217276132626?is_from_webapp=1&sender_device=pc&web_id=7446567239325271558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.549871203760,
+          3.39007213745514 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 163",
+        "DIRECCION": "Acopi",
+        "Mes": "Diciembre",
+        "FOTO": "163",
+        "VIDEO": "https://www.facebook.com/share/v/18Q5EhqCaN/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50677502050779,
+          3.514571011626511 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 164",
+        "DIRECCION": "Cl. 14c #50a-41 a 50a-13",
+        "Mes": "Diciembre",
+        "FOTO": "164",
+        "VIDEO": "https://www.facebook.com/share/v/1BNTGpMGXF/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52878021709373,
+          3.4058030040756893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 165",
+        "DIRECCION": "Palmarés de Pasoancho",
+        "Mes": "Diciembre",
+        "FOTO": "165",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7446601686581284102?is_from_webapp=1&sender_device=pc&web_id=7446567239325271558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53399070560957,
+          3.406776105210323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 166",
+        "DIRECCION": "El Borondo Cristo Rey",
+        "Mes": "Diciembre",
+        "FOTO": "166",
+        "VIDEO": "https://www.facebook.com/share/v/18ra1bc8wv/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55573097617899,
+          3.437227974266089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 167",
+        "DIRECCION": "Cl. 10 Oe. #1-99 a 1-1",
+        "Mes": "Diciembre",
+        "FOTO": "167",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7449343628440259856?is_from_webapp=1&sender_device=pc&web_id=7446567239325271558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55076878758295,
+          3.4515995342329746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PUNTO": "Punto 168",
+        "DIRECCION": "Cl. 75a Nte. #2a Bis Norte-2 a 2a Bis Norte-98",
+        "Mes": "Diciembre",
+        "FOTO": "168",
+        "VIDEO": "https://www.tiktok.com/@samuelmerchan315/video/7449563872442223889?is_from_webapp=1&sender_device=pc&web_id=7446567239325271558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5017928526759,
+          3.494437070796411
+        ]
+      }
     }
   ]
 }
